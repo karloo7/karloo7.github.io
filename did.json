@@ -1,0 +1,25 @@
+{
+  "did": "did:web:karloo7.github.io",
+  "controllerKeyId": "04a44ddf1f3cf7b5a660ff5fb96c7be0a8fa55cb3a1d626eee940d1854533d1b2c4d348683e7f96a92beb6becdbde8b6875d80df572f2e7c770044f24c61f7d229",
+  "keys": [
+    {
+      "type": "Secp256k1",
+      "kid": "04a44ddf1f3cf7b5a660ff5fb96c7be0a8fa55cb3a1d626eee940d1854533d1b2c4d348683e7f96a92beb6becdbde8b6875d80df572f2e7c770044f24c61f7d229",
+      "publicKeyHex": "04a44ddf1f3cf7b5a660ff5fb96c7be0a8fa55cb3a1d626eee940d1854533d1b2c4d348683e7f96a92beb6becdbde8b6875d80df572f2e7c770044f24c61f7d229",
+      "meta": {
+        "algorithms": [
+          "ES256K",
+          "ES256K-R",
+          "eth_signTransaction",
+          "eth_signTypedData",
+          "eth_signMessage",
+          "eth_rawSign"
+        ]
+      },
+      "kms": "local"
+    }
+  ],
+  "services": [],
+  "provider": "did:web",
+  "alias": "karloo7.github.io"
+}
